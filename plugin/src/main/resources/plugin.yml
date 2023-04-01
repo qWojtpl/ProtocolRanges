@@ -1,0 +1,6 @@
+name: ProtocolRanges
+version: '${project.version}'
+main: pl.protocolranges.ProtocolRanges
+api-version: 1.19
+authors: [Assasin98980]
+description: Block too low and too high protocols on your Minecraft server

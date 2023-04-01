@@ -1,0 +1,5 @@
+config:
+  minProtocol: 759
+  maxProtocol: 762
+  tooLowMessage: "§cYou have too low version!"
+  tooHighMessage: "§cYou have too high version!"
