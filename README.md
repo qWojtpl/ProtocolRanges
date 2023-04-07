@@ -8,6 +8,7 @@
 
 <p>Block too high and too low protocols on your minecraft server</p>
 <p>REQUIRES VIAVERSION</p>
+<p>Get protocol versions from https://minecraft.fandom.com/wiki/Protocol_version</p>
 <p>Tested minecraft versions: </p> 
 
 `1.19.3`
